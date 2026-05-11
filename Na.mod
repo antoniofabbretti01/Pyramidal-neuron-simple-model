@@ -1,4 +1,4 @@
-TITLE Fast Na current from Compte
+TITLE Fast Na channel from Compte
 : The sodium current INa = gNa*m_inf^3*h*(V - VNa) has a maximum conductance of gNa = 50 mS/cm2, 
 : its rapid activation variable is replaced by its steady-state m_inf = alpha_m/(alpha_m + beta_m) 
 : with alpha_m = 0.1(V + 33)/[1 - exp(-(V + 33)/10)] and beta_m = 4 exp(-(V+ 53.7)/12) and 
