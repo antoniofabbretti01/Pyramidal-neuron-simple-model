@@ -1,4 +1,4 @@
-TITLE KAR from Compte
+TITLE KAR channel from Compte
 : The inwardly rectifying K+ channel was modeled as in (Stern et al. 1997; Spain et al. 1987) 
 : and adjusting the parameters: IAR = gAR*h_inf*(v-ek) activates instantaneously below a low-lying 
 : threshold following h_inf = 1/[1 + exp((V + 75)/4)] and it has a maximal conductance gAR = 0.0257 mS/cm2. 
