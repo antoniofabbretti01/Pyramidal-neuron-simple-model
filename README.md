@@ -7,3 +7,9 @@ non-inactivating hyperpolarization-activated current (Ih), persistent Na+ curren
 
 Before running the python code, the .mod files must be compiled clicking on the file make.bat.
 The .mod files cointains the dynamic equations of the mechanism (ionic channels and pumps) inserted in the membrane of the neuron model.
+
+The python code shows:
+- a membrane potential time course
+- Na+ channel kinetics (as an example)
+- [Na+]i and [Ca++]i time courses
+- a current/frequency plot
