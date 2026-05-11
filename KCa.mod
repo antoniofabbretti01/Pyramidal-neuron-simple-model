@@ -1,8 +1,7 @@
 TITLE KCa channel from Compte
 : The Ca2+-dependent K+ channel IKCa = gKCa[Ca2+]/([Ca2+]+KD)(v-ek) (with KD = 30 uM) 
 : activates instantaneously in the presence of intracellular calcium [Ca2+], 
-: and it has a maximal conductance gKCa = 0.57 mS/cm2. 
-: All the mechanisms involving intracellular calcium are taken from Wang (1998). 
+: and it has a maximal conductance gKCa = 0.57 mS/cm2.  
 
 NEURON { 
         SUFFIX KCa
