@@ -1,4 +1,4 @@
-TITLE Peristent Na current from Compte
+TITLE Peristent Na channel from Compte
 : The persistent sodium channel INaP = gNaP*m_inf^3*(V - VNa) has maximal conductanceg NaP = 0.0686 mS/cm2, 
 : it activates instantaneously according to m_inf = 1/[1 + exp(-(V + 55.7)/7.7)] and it does not inactivate. 
 : It is borrowed with parameter modification from (Fleidervish et al. 1996).
