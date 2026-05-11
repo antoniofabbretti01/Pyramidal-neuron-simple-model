@@ -4,6 +4,7 @@ and transposed from C++ language to the Neuron Python language. As in the origin
 The ionic currents in the soma are: leakage current (IL), sodium current (INa), delayed rectifier potassium current (IKDR), A-type K+ current (IKA), non-inactivating slow K+ current (IKS), 
 Na+ dependent K+ current (IKNa), and the non-inactivating and non-rectifying K+ current (IM); while the ionic currents in the dendrite are: leakage current (IL), high-threshold Ca2+ (ICa), 
 non-inactivating hyperpolarization-activated current (Ih), persistent Na+ current (INaP), anomalous rectifier K+ current (IKAR) and the Ca2+-dependent K+ current (IKCa).
+Moreover the model comprises a Na+/K+ pump in the soma and a Ca++ pump in the dendrite.
 
 Before running the python code, the .mod files must be compiled clicking on the file make.bat.
 The .mod files cointains the dynamic equations of the mechanism (ionic channels and pumps) inserted in the membrane of the neuron model.
