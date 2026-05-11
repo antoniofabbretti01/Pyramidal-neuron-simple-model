@@ -1,4 +1,4 @@
-TITLE K-DR channel from Compte
+TITLE KDR channel from Compte
 : The delayed rectifier IK = gK*n^4*(V - VK) has a maximal conductance gK = 10.5 mS/cm2 and 
 : its inactivation kinetics are set by alpha_n = 0.01(V + 34)/[1 - exp(-(V + 34)/10)] 
 : and beta_n = 0.125 exp[-(V + 44)/25]. 
