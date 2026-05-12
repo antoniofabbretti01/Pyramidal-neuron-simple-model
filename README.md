@@ -1,4 +1,4 @@
-Here a simple model of an excitatory pyramidal neuron taken from the paper of Dalla Porta et al. (2025 https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP287616),
+Here a simple model of an excitatory pyramidal neuron taken from the paper of Dalla Porta et al. 2025 (https://physoc.onlinelibrary.wiley.com/doi/full/10.1113/JP287616),
 which is an extension of a previous model by Compte et al. 2002 (https://journals.physiology.org/doi/full/10.1152/jn.00845.2002),
 and transposed from C++ language to the Neuron Python language. As in the original work, the neuron has only a somatic and a dendritic compartment.
 
