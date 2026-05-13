@@ -1,8 +1,8 @@
 TITLE Ih channel from Hill
-: The non specific "funny" current Ih = gH*m*(V - Vh) has a maximal conductance gH = 0.0115e-3 S/cm2 
-: and its activation kinetics is set by m_inf = 1./(1.+exp((V-Vhalf)/slope)) 
-: while its time dependecy is set by tau_m = 1./(exp(-14.59-0.086*V) + exp(-1.87+0.0701*V))
-: with Vhalf = -75 mV.
+: The "funny" current Ih = gH*m*(V - Vh) is a non-specific, non-inactivating, hyperpolarization-activated current 
+: and has a maximal conductance gH = 0.0115 mS/cm2. 
+: Its activation kinetics is set by m_inf = 1./(1.+exp((V-Vhalf)/slope)), with Vhalf = -75 mV,
+: while its time dependecy is set by tau_m = 1./(exp(-14.59-0.086*V) + exp(-1.87+0.0701*V)).
 
 NEURON {
 	SUFFIX Ih
