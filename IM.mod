@@ -1,5 +1,5 @@
 TITLE IM channel from McCormick
-: The "funny" current IM = gM*m*(V - VK) has a maximal conductance gM = 0.083e-3 S/cm2  
+: The non-inactivating and non-rectifying K+ current IM = gM*m*(V - VK) has a maximal conductance gM = 0.083e-3 S/cm2  
 : and its activation kinetics is set by m_inf = 1./(1.+exp(-0.1*(V-Vhalf)))
 : while its time dependecy is set by tau_m = 1000.0/(3.3*(exp(0.05*(V-Vhalf))+exp(-0.05*(V-Vhalf))))
 : with Vhalf = -35 mV.
