@@ -1,5 +1,5 @@
 TITLE KA channel from Compte
-: The fast A-type K+-channel is as inGolomb and Amitai (1997); IA = gA*m_inf^3*h*(v-ek) 
+: The fast A-type K+ channel is as inGolomb and Amitai (1997); IA = gA*m_inf^3*h*(v-ek) 
 : has its fast activation variable replaced by its steady-state m_inf = 1/[1 + exp(-(V + 50)/20)] 
 : and the inactivation variable is governed by h_inf = 1/[1 + exp((V + 80)/6)] and tau_h = 15 ms. 
 : Its maximal conductance is gA = 1 mS/cm2.
