@@ -1,6 +1,6 @@
 TITLE KNa channel from Compte
 : The Na+ dependent K+ channel IKNa = gKNa*w_inf([Na+])*(V - VK) has a conductanceg KNa = 1.33 mS/cm2 
-: and w_inf([Na+]) = 0.37/[1 + (38.7/[Na+])3.5] (Bischoff et al. 1998).
+: and w_inf([Na+]) = 0.37/[1 + (38.7/[Na+])3.5].
 
 NEURON { 
 	SUFFIX KNa 
