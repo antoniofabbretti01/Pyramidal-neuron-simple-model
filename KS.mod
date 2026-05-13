@@ -1,6 +1,6 @@
 TITLE KS channel from Compte
 : The non-inactivating K+-channel is modeled as in (Wang 1999a) but with no inactivation variable: 
-: iKS = gKS*m(v-ek). It has a maximal conductanceg KS = 0.576 mS/cm2 and an activation controlled 
+: iKS = gKS*m(v-ek). It has a maximal conductance gKS = 0.576 mS/cm2 and an activation controlled 
 : by m_inf = 1/[1 + exp(-(V + 34)/6.5)] and tau_m = 8/[exp(-(V + 55)/30) + exp((V + 55)/30)].
 
 NEURON { 
