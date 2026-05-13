@@ -1,5 +1,5 @@
 TITLE Ca++ channel from Compte
-: The high-threshold Ca2+-channel ICa = gCa*m_inf^2*(V - VCa) has gCa = 0.43 mS/cm2 
+: The high-threshold Ca2+ channel ICa = gCa*m_inf^2*(V - VCa) has gCa = 0.43 mS/cm2 
 : and is instantaneously activated at very depolarized voltages, thus making it effectively 
 : a very transient current. The voltage dependency is given by m_inf = 1/[1 + exp(-(V + 20)/9)].
 
