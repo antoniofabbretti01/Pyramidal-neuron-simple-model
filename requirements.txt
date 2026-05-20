@@ -2,3 +2,5 @@ neuron
 numpy
 matplotlib
 pandas
+SALib
+seaborn
