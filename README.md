@@ -20,4 +20,5 @@ The main script 'Pyramidal_neuron_model.ipynb' generates:
 - Dataframes of the S1 and ST Sobol sensitivity indices for Ih paramaters
 
 Instead, in the script 'Parameters_optimization_BluePyOpt.ipynb' I integrated BluePyOpt and eFEL to fine-tune the maximum conductances (gNa, gKDR, gM, gKCa, gCa) against experimental I/f curves 
-from a mice pyramidal neuron. 
+from a mice pyramidal neuron.
+Data gently given by Roberta Castelli: PhD student from Professor Anna Moroni’s lab at Università degli Studi di Milano.
