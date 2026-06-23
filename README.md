@@ -12,9 +12,12 @@ Moreover the model comprises a Na+/K+ pump in the soma and a Ca++ pump in the de
 Before running the python code, the .mod files must be compiled clicking on the file make.bat.
 The .mod files cointains the dynamic equations of the mechanism (ionic channels and pumps) inserted in the membrane of the neuron model.
 
-The python code generates:
+The main script 'Pyramidal_neuron_model.ipynb' generates:
 - Membrane potential time course
 - Na+ channel kinetics (as an example)
 - [Na+]i and [Ca++]i time courses
 - Current/frequency plot
 - Dataframes of the S1 and ST Sobol sensitivity indices for Ih paramaters
+
+Instead, in the script 'Parameters_optimization_BluePyOpt.ipynb' I integrated BluePyOpt and eFEL to fine-tune the maximum conductances (gNa, gKDR, gM, gKCa, gCa) against experimental I/f curves 
+from a mice pyramidal neuron. 
