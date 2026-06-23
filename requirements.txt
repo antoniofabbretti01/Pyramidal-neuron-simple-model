@@ -4,3 +4,5 @@ matplotlib
 pandas
 SALib
 seaborn
+bluepyopt
+efel
