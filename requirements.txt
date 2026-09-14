@@ -1,5 +1,6 @@
 neuron
 numpy
+rxd
 matplotlib
 pandas
 SALib
